@@ -1,3 +1,7 @@
+# App overview
+This app is created by by following "Modern React with Redux" course on Udemy. It's showing routing did from the scratch in react, 
+few reusable components like accordions, buttons etc, and modal window and table with sort ability. Follow steps bellow to use this on your pc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
